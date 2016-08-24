@@ -8,11 +8,11 @@
 <script src='https://code.jquery.com/jquery-1.12.4.min.js'></script>
 </head>
 <body>
-		
+		<img src="../img/qrcode.36406894.png" />
 </body>
 </html>
 <script>
 	$(document).ready(function(){
-		alert("teest");
+		
 	});
 </script>
